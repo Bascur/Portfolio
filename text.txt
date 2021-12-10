@@ -1,0 +1,13 @@
+My name is Joaquin Bascur and I'm a web developer from Argentina.
+ Spanish is my mother tongue but I’m fluent in English and I have a First Certificate in English (FCE). 
+ My first foray into programming was when I was just 15 years old, 
+ as I wanted to create a website for my mother’s project. Since then,
+ I've made a few websites and I’ve learned even more along the way 
+ as I'm constantly acquiring new knowledge and learning new technologies.
+
+ Mi nombre es Joaquin Bascur, soy un desarrollador web nacido en Argentina. 
+ Español es mi lengua materna pero manejo el ingles de manera fluida.
+ Mi primera aproximacion a la programacion fue tratando de crear una pagina
+ web para el emprendimiento de mi madre. 
+ Desde ese momento cree algunos sitios y aprendi aun mas en el proceso,
+ya que siempre estoy buscando nuevosconocimientos que adquirir.
